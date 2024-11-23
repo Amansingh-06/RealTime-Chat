@@ -8,7 +8,7 @@ A real-time chat application built using **Node.js**, **Socket.IO**, **MongoDB**
 - Real-time messaging using **Socket.IO**.
 - Persistent message storage with **MongoDB**.
 - Tailwind CSS for a modern, responsive UI.
-- Notification for new messages.
+
 - Ability to delete messages.
 
 ---
